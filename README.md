@@ -25,3 +25,6 @@ On the branch!!!
 changes
 
 hello
+
+
+############### 12 jan trainig
